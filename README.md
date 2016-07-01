@@ -1,2 +1,2 @@
 # accBall
-practice phonegap
+practice phonegap for iOS
